@@ -1,6 +1,6 @@
 {
-  "short_name": "Remotion Challenge",
-  "name": "Remotion Challenge",
+  "short_name": "react-emoji-picker",
+  "name": "React Emoji Picker",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",

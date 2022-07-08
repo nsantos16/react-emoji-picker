@@ -1,3 +1,4 @@
+n
 const Hero = () => {
   return (
     <div className="content-center text-center pt-10">
@@ -6,7 +7,7 @@ const Hero = () => {
           className="bg-gradient-to-r bg-clip-text  text-transparent 
             from-pink-500 to-orange-300"
         >
-          Remotion Challenge
+          React Emoji Picker
         </span>
       </h1>
     </div>
